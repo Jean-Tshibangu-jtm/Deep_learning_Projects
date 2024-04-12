@@ -1,9 +1,6 @@
 # Deep Learning 
 
 
-
-# Curriculum de la repértoire
-
 ## Les Fondamentaux du Deep Learning
 
 - Introduction au Deep Learning
