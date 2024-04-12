@@ -1,10 +1,8 @@
-# Deep Learning : De Zéro à la Certification Tensorflow
+# Deep Learning 
 
-Apprendre l’Intelligence Artificielle avec Tensorflow et passer l’examen Tensorflow developer Certification de Google.
 
-Suivre la formation sur [Udemy](https://www.udemy.com/course/deep-learning-de-zero-a-la-certification-tensorflow/?referralCode=736CA5E82E8C3418B458)
 
-# Curriculum de la formation
+# Curriculum de la repértoire
 
 ## Les Fondamentaux du Deep Learning
 
@@ -83,11 +81,5 @@ Suivre la formation sur [Udemy](https://www.udemy.com/course/deep-learning-de-ze
 - Créer des Modèles de deep learning pour la prédiction des séries Temporelles
 - Appliquer les CNN, RNN, LSTM, GRU pour la prédiction des séries temporelles
 
-## Astuces pour réussir l’examen de certification de Tensorflow
-
-- Comment se préparer pour l'examen
-- Configurer son environnement pour l'examen
-- Ressources supplémentaires
 
 
-By [Kevin Degila](https://youtube.com/kevindegila)
